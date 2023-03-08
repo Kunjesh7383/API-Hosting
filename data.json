@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name": "Pizza",
+        "price": "100.rs",
+        "description": "A thick crust pizza with a cheesey crust, topped with mozzarella and mushrooms."
+    },
+    {
+        "id":2,
+        "name": "Burger",
+        "price": "50.rs",
+        "description": "A juicy hamburger with lettuce and tomato sauce."
+    },
+    {
+        "id":3,
+        "name": "Sandwich",
+        "price": "120.rs",
+        "description": "A tasty sandwich with extra cheese."
+    }
+]
